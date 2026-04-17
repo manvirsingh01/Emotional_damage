@@ -4,7 +4,7 @@ import sys
 
 
 def hello(args):
-    print("Hello Manvir 😎")
+    print("Hello Manvir his is the first code 😎")
 
 def scan(args):
     print(f"Scanning target: {args.target}")
